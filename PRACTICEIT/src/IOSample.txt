@@ -1,0 +1,2 @@
+This program runs successfully if the memory allows to read the file and write. Note here that the file location and contents fixed.
+If you need to read the contents from a stream then you need to read the contents continuously as below until reaches the end of the stream.
