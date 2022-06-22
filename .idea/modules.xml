@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BAEKJOON/BAEKJOON.iml" filepath="$PROJECT_DIR$/BAEKJOON/BAEKJOON.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVAPRAC.iml" filepath="$PROJECT_DIR$/JAVAPRAC.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRACTICEIT/PRACTICEIT.iml" filepath="$PROJECT_DIR$/PRACTICEIT/PRACTICEIT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SqlTutorial/SqlTutorial.iml" filepath="$PROJECT_DIR$/SqlTutorial/SqlTutorial.iml" />
     </modules>
   </component>
 </project>
